@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+}
+
+.center {
+    width: 400px;
+    margin: 0 auto;
+}
+
+input {
+    font-size: 2em;
+}
+
+button {
+    font-size: 2em;
+}
+
+#hasil {
+    font-size: 3em;
+}
